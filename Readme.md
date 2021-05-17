@@ -3,3 +3,4 @@
 
 #local development 
 1. Opening smfl windows
+2. have fun
